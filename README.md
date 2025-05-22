@@ -1,0 +1,2 @@
+# MyHazo
+static page
